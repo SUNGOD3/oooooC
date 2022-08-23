@@ -6,3 +6,5 @@ A programming competition problem made by polygon, the difficulty is hard or abo
 Furthermore, it can be shown that this problem is np-hard.
 
 If you don't have any idea about this problem, see oooooC.pptx(in Chinese).
+
+Good luck~
